@@ -1,0 +1,62 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Jan 28 23:11:06 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/codaz/slideme/src/" "/home/ja/codaz/slideme/test.html" "/home/ja/codaz/slideme/src/Main.hs" "/home/ja/codaz/slideme/slideme.cabal" "/home/ja/codaz/slideme/main.hs" "~/codaz/slideme/src/Main.hs" "/home/ja/codaz/slideme/slideme.cabal" "/home/ja/codaz/slideme/src/Main.hs" "/home/ja/codaz/slideme/src/Site.hs" "/home/ja/codaz/slideme/src/Application.hs" "/home/ja/codaz/slideme/src/Site.hs" "/home/ja/codaz/slideme/src/Application.hs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/ja/codaz/slideme/src/Main.hs"
+  "Main.hs"
+  'haskell-mode
+  '(auto-complete-mode undo-tree-mode)
+  53
+  '(978 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ja/codaz/slideme/test.html"
+  "test.html"
+  'html-mode
+  '(undo-tree-mode)
+  116
+  '(58 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/ja/codaz/slideme/slideme.cabal"
+  "slideme.cabal"
+  'haskell-cabal-mode
+  '(undo-tree-mode)
+  968
+  '(802 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/ja/codaz/slideme/main.hs"
+  "main.hs"
+  'haskell-mode
+  '(auto-complete-mode undo-tree-mode)
+  279
+  '(292 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
